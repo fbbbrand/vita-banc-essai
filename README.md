@@ -1,7 +1,8 @@
-# VITA – banc d'essai interactif (détection acoustique de chute)
+# VITA – détection de chute par le son : résultats
 
-Page autonome issue de la campagne Living Lab des 12–15 octobre 2026 (3 nœuds ESP32 : micro + ADXL345) :
-237 essais valides, 711 événements, 84 configurations de modèles, 14 méthodes de la littérature, écoute des micros
-par combinaison. Chiffres du 2 novembre 2026 : labels annotés à l'écoute (210 essais, 41 chutes), 1185 événements.
+Page interactive : quelles chutes trois micros permettent d'entendre, et pourquoi d'autres passent inaperçues.
+Campagne Living Lab des 12–15 octobre 2026, 237 essais, 41 impacts de chute annotés à l'écoute (2 novembre 2026).
+Choix du modèle, des micros, du protocole et du seuil ; écoute de chaque essai par micro ou mélange.
 
-Ouvrir `index.html`, ou la version en ligne via GitHub Pages. Méthode et code : dépôt `vita-cloud` (privé).
+En ligne : https://fbbbrand.github.io/vita-banc-essai/ — ou ouvrir `index.html` en gardant le dossier `audio/` à côté
+(pour une écoute parfaitement synchronisée, `python3 lancer.py`).

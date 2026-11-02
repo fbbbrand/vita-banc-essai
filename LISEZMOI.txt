@@ -1,4 +1,4 @@
-VITA – banc d'essai interactif (version autonome)
+VITA – détection de chute par le son : résultats (page autonome)
 
 Ouvrir index.html dans un navigateur (Chrome, Edge, Firefox ou Safari) : tout fonctionne en local,
 y compris l'écoute des micros, à condition de garder le dossier audio/ à côté de index.html.
