@@ -1,6 +1,7 @@
 # VITA – détection de chute par le son : résultats
 
-Page interactive : quelles chutes trois micros permettent d'entendre, et pourquoi d'autres passent inaperçues.
+Page interactive : quelles chutes trois micros permettent d'entendre, pourquoi d'autres passent inaperçues, et ce que
+mesurent les accéléromètres fixés aux trépieds (partie 8).
 Campagne Living Lab des 12–15 octobre 2026, 237 essais, 41 impacts de chute annotés à l'écoute (2 novembre 2026).
 Choix du modèle, des micros et du seuil ; écoute de chaque essai par micro ou mélange.
 
