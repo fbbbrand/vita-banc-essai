@@ -7,7 +7,7 @@ Pour une écoute parfaitement synchronisée des mélanges de micros, lancer plut
   python3 lancer.py        (ou double-clic sur lancer.command sur Mac)
 puis ouvrir http://localhost:8080 (le script l'ouvre tout seul).
 
-Contenu : 237 essais valides de la campagne du 12–15 octobre 2026, 711 événements détectés, 84 configurations
+Contenu : 237 essais valides de la campagne du 12–15 octobre 2026, 1185 événements détectés, 84 configurations
 de modèles (3 modèles × 7 combinaisons de micros × 2 jeux de features × 2 protocoles), 14 méthodes de la
-littérature, écoute de 82 essais par micro ou par combinaison. Chiffres du 22 octobre 2026 (labels guidés par le
-chrono, avant annotation manuelle). Sources et méthode : dépôt fbbbrand/vita-cloud, docs/LITTERATURE.md.
+littérature, écoute de 82 essais par micro ou par combinaison. Chiffres du 2 novembre 2026 : labels annotés à l'écoute
+(210 essais, 41 impacts de chute), jusqu'à 5 événements par essai. Sources et méthode : dépôt fbbbrand/vita-cloud, docs/LITTERATURE.md.
